@@ -1,0 +1,21 @@
+header{
+    padding: 15px;
+    background-color: #f2dcbb;
+    width: 480px;
+    
+    
+
+}
+main{
+    background-color: #f9f7cf;
+    padding: 5px;
+}
+footer{
+    padding: 15px;
+    background-color: #f2dcbb;
+    width: 480px;
+    
+}
+body{
+    background-color:  #f9f7cf;
+}

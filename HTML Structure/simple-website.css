@@ -1,0 +1,47 @@
+a{
+    display: inline;
+    font-size:25px;
+    padding: 20px;
+    background-color: yellow;
+    margin: 20px;
+    border: 1px solid black;
+    font-style:oblique;
+    color:steelblue
+    
+}
+.header{
+    text-align: center;
+}
+.date{
+    font-style: italic;
+}
+.comment{
+    font-size: 20px;
+}
+header{
+    font-size:40px;
+    background-color:aqua ;
+    padding: 20px;
+    
+}
+h1{
+    padding-left: 10px;
+    margin-bottom:30px;
+    font-size: 30px;
+}
+body{
+    background-color: yellow;
+}
+footer p{
+    text-align: center;
+}
+footer{
+    background-color: aqua;
+    padding: 20px;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+}
