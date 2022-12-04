@@ -1,0 +1,20 @@
+button{
+    cursor: pointer;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px ;
+    
+}
+article{
+    margin-left: 60px;
+}
+body{
+    background-color: lightblue
+}
+.fill{
+    background-color: grey;
+    color: white;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}

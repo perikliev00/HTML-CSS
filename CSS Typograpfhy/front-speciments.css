@@ -1,0 +1,22 @@
+div{
+    text-align: justify;
+    margin-right: 60px;
+    margin-left:60px;
+    line-height: 1.5;
+    font-size:18px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+font-family: 'Nerko One', cursive;
+}
