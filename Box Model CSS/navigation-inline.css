@@ -1,0 +1,30 @@
+h1{
+    display: inline;
+    text-transform: uppercase;
+    font-family: Helvetica, sans-serif;
+    margin-right: 40px;
+    font-family:Arial, Helvetica, sans-serif
+}
+ul{
+    display:inline;
+}
+li{
+    margin-right: 20px;
+    display: inline;
+}
+a{
+    text-decoration:none;
+    color: green;
+}
+header{
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+    margin:50px 60px
+}
+main{
+    margin: 50px 60px;
+}
+p{
+    line-height: 20px;
+    letter-spacing: 2px;
+}
