@@ -1,0 +1,41 @@
+body{
+    margin: 30px;
+}
+main{
+    width:70%;
+    display: inline-block;
+}
+aside{
+    display: inline-block;
+    width:30%;
+}
+nav li{
+    padding-right:5px;
+}
+header ul{
+    display: inline-block;
+}
+header h1{
+    display: inline-block;
+}
+header li{
+    display:inline-block;
+}
+nav{
+    display: inline-block;
+    position:absolute;
+    top:15px;
+    left: 80%;
+    font-size: 20px;
+}
+header{
+    border-bottom: 2px solid black;
+    position: relative;
+}
+a{
+    text-decoration: none;
+    color: forestgreen;
+}
+.first{
+    float:right
+}

@@ -1,0 +1,29 @@
+.first{
+    position: absolute;
+    height:50%;
+    width:100%;
+    background-color: aquamarine;
+}
+.second{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top: 491.2px;
+    background-color: yellow;
+}
+.firstPic{
+    height: 200px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.secondPic{
+    height:300px;
+    width:200px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
