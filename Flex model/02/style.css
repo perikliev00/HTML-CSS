@@ -1,0 +1,31 @@
+main{
+    display: inline-flex;
+    flex-direction: row;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+div{
+    height: 50px;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid black;
+}
+.first{
+    background-color: blue;
+}
+.second{
+    background-color: brown;
+}
+.third{
+    background-color: yellow;
+}
+.fourth{
+    background-color: tomato;
+}
+.fifth{
+    background-color: red;
+}
+.sixth{
+    background-color: green;
+}
