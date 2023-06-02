@@ -1,0 +1,74 @@
+.main-container{
+    display: flex;
+}
+.first{
+    border:solid 1px #000000;
+    display: inline-flex;
+    flex-direction: column;
+    height: 300px;
+    width: 800px;
+}
+.first-span{
+    border: solid 1px black;
+    display: inline-block;
+    height: 100%;
+    width: 20%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+.tittle{
+    height:50%;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid black;
+    font-size: 25px;
+}
+.days{
+    height: 50%;
+    justify-content: stretch;
+}
+.reminders{
+    display:inline-block;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    width: 20%;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+}
+.second-span{
+    border: solid 1px black;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 20px;
+}
+.second-tittle{
+    height:50%;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid black;
+    border-top: 0px;
+    font-size: 25px;   
+}
+.reminders-2{
+    display:inline-block;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    width: 20%;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    border-top: 0px;
+}
+body{
+    border: 1px soldi black;
+}

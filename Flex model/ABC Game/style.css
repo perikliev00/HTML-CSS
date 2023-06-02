@@ -1,0 +1,13 @@
+div{
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height:650px;
+    gap:25px;
+    width:250px;
+}
+span{
+    border: 1px solid black;
+    font-size: 45px;
+    text-align: center;
+}

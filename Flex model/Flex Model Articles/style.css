@@ -1,0 +1,10 @@
+section{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 35px;
+}
+article{
+    flex-basis: 13%;
+    
+}
