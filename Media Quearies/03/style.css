@@ -1,0 +1,40 @@
+fieldset{
+    display: inline-block;
+    width:400px;
+    height: 150px;
+    padding-top: 50px;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+.labels{
+    display: inline-block;
+}
+.inputs{
+    display: inline-block;
+    margin-left: 10px;
+}
+input{
+    margin-bottom: 10px;
+    padding-top: 1px;
+}
+button{
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+}
+span{
+    position: relative;
+    border:1px solid black;
+    padding: 10px;
+    background-color: white;
+    display: inline-flex;
+    width: 100px;
+    padding-left: 60px;
+    left:4px;
+    top:20px;
+}
+i{
+    position: absolute;
+}
